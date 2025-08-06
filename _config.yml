@@ -1,11 +1,11 @@
 # Site settings
-title: Pennpictures, Penning Memories
-email: your-email@domain.com
+title: Pennpictures
+email: thepennpics@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Inspired by the art of storytelling, the name Pennpictures embodies the essence of "penning" memories through the lens, transforming fleeting instances into timeless visuals. Capturing emotions, celebrating connections, and crafting narratives that speak beyond words.
+description: "Inspired by the art of storytelling, the name Pennpictures embodies the essence of 'penning' memories through the lens, transforming fleeting instances into timeless visuals. Capturing emotions, celebrating connections, and crafting narratives that speak beyond words.
 "
-keywords: "Wedding, Photographer, Events, Portrait"
-skills: "Wedding Photographer - Events Photographer"
+keywords: "your keywords, separated by commas"
+skills: "Wedding Photographer - Events Photographer - Portrait Photographer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -26,25 +26,29 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: CCA78A 
+  primary: CCA78A
   primary-rgb: "24,288,156"
-  secondary: F9F5F0
-  secondary-dark: F9F5F0
+  secondary: F9F5F0 
+  secondary-dark: 233140 
 
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Contact Us!
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: Email
+    url: thepennpics@gmail.com
   - title: facebook
     url:
   - title: Instagram
     url: https://www.instagram.com/thepennpics/?hl=en
-  - title: Carousell
+  - title: bitbucket
+    url: 
+  - title: github
     url: 
 # Postal address (add as many lines as necessary)
 address:
