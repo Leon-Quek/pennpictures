@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date:
+date:2014-07-18
 img: Events.png
 alt: image-alt
-project-date: 
-client: 
-category: Event Photography
-description: Event photography is the professional practice of capturing high-quality images at various types of gatherings and special occasions. It involves documenting the atmosphere, key moments, and interactions that unfold during an event, whether it's a wedding, corporate function, or public gathering. The goal is to create a visual narrative of the event, preserving its energy and essence for the participants to relive later. 
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
