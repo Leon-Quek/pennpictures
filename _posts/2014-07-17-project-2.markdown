@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2025-04-18
+img: Wedding.png
+alt: image-alt
+project-date: April 2025
+client: Wedding
+category: Wedding Photography
+description: Wedding photography is a specialized field of photography focused on documenting all aspects of a wedding day, from pre-wedding events like engagement sessions to the ceremony and reception. It involves capturing both posed and candid moments, aiming to create a visual narrative of the couple's special day. Wedding photographers utilize various styles, including portrait, documentary, and photojournalistic approaches, to produce a comprehensive collection of images that the couple can cherish for years to come. 
+---
