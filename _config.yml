@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: F9F5F0
-  primary-rgb: "24,288,156"
+  primary-rgb: F9F5F0
   secondary: CCA78A
   secondary-dark: F9F5F0 
 
@@ -42,14 +42,9 @@ footer:
 social:
   - title: Email
     url: thepennpics@gmail.com
-  - title: facebook
-    url:
   - title: Instagram
     url: https://www.instagram.com/thepennpics/?hl=en
-  - title: bitbucket
-    url: 
-  - title: github
-    url: 
+
 # Postal address (add as many lines as necessary)
 address:
   - line: 
