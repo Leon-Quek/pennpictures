@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 
+img: Wedding.png
+alt: image-alt
+project-date: 
+client: 
+category: Wedding Photography
+description: Wedding photography is a specialized field of photography focused on documenting all aspects of a wedding day, from pre-wedding events like engagement sessions to the ceremony and reception. It encompasses various styles, including portraiture, photojournalism, and still-life, to capture the day's events and create lasting memories for the couple.
+---
