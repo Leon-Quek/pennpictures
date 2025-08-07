@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2025-07-15
+img: Pet.png
+alt: image-alt
+project-date: July 2025
+client: Pet
+category: Pet Photography
+description: Pet photography is a genre of photography focused on capturing images of domestic animals, often as a form of portraiture or to document their personalities and relationships with their owners. It involves taking pictures of pets, like cats and dogs, and can also include other animals commonly kept as pets. Pet photography aims to create lasting memories and showcase the unique bond between humans and their animal companions. 
+---

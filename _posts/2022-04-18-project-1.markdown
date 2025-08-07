@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-04-18
+img: Portrait.png
+alt: image-alt
+project-date: April 2022
+client: Portrait
+category: Portrait Photography
+description: Portrait photography is a genre of photography focused on capturing the personality, likeness, and mood of a person or group of people. It goes beyond simply recording a visual representation, aiming to convey the subject's character, emotions, and inner world through techniques like lighting, composition, and posing. 
+---
