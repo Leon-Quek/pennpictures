@@ -32,17 +32,15 @@ color:
   secondary-dark: B37B51 #dark brown
 
 # Footer settings
-#footer:
+footer:
   #copyright: Dr. Henry Jekyll
   #location: Location
-  #social: Contact Us!
+  social: Follow us on
   #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Email
-    url: thepennpics@gmail.com
-  - title: Instagram
+  - title: instagram
     url: https://www.instagram.com/thepennpics/?hl=en
 
 # Postal address (add as many lines as necessary)
