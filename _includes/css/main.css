@@ -246,7 +246,10 @@
   color: white;
   text-align: center;
 }
-
+.header-bg {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Or your custom font */
+  color: white;
+}
 @media (prefers-reduced-motion: reduce) {
   .fa-beat,
   .fa-bounce,
