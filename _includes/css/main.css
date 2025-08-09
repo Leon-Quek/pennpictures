@@ -236,7 +236,7 @@
           animation-iteration-count: var(--fa-animation-iteration-count, infinite);
   -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
           animation-timing-function: var(--fa-animation-timing, steps(8)); }
-  /*! header */
+  /*! header 
 .header-bg {
   background-image: url('img/background.png');
   background-size: cover;
@@ -244,12 +244,11 @@
   background-repeat: no-repeat;
   padding: 100px 0; 
   color: white;
-  text-align: center;
-}
+  text-align: center;}
 .header-bg {
-  font-family: 'Helvetica Neue'; /* Or your custom font */
+  font-family: 'Helvetica Neue'; Or your custom font 
   color: white;
-}
+}*/ 
 @media (prefers-reduced-motion: reduce) {
   .fa-beat,
   .fa-bounce,
