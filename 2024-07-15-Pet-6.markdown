@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2024-07-15
-img: Pet.png
-alt: 
+img: _A7_8061
+alt: _A7_9292-Enhanced-NR
 project-date: July 2025
 client: Elizabeth
 category: Pet photography
-description: Jalan Rajah
+description:
 ---
